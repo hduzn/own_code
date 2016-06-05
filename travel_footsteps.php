@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>我的旅行足迹</title>
-<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=CwL0Aob6vtA1b1rwVOosPgLK">
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=您的密钥">
 </script>
 <style type="text/css">
 html{height:100%} 
